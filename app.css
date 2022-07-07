@@ -1,5 +1,6 @@
 .sedan {background-color: hsl(31, 77%, 52%);
     color: white;
+    
 
 }
 .SUV {background-color: hsl(184, 100%, 22%);
@@ -10,3 +11,15 @@
     color: white;
 
 }
+.sedan-btn{color: hsl(31, 77%, 52%);
+background-color: hsl(0, 0%, 95%);
+border: none;
+border-radius: 18px;}
+.SUV-btn{color: hsl(184, 100%, 22%);
+    border: none;
+    border-radius: 18px;
+    background-color: hsl(0, 0%, 95%)}
+.lux-btn {color: hsl(179, 100%, 13%);
+    border: none;
+    border-radius: 18px;
+    background-color: hsl(0, 0%, 95%)}
