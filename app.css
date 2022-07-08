@@ -1,25 +1,40 @@
+h1{ font-family: 'Big Shoulders Display';
+font-weight: 700;}
+p{font-family: Lexend Deca;
+font-weight: 400;}
 .sedan {background-color: hsl(31, 77%, 52%);
     color: white;
+    font-size: 15px;
+    border: none;
+    border-top-right-radius:2%;
+    border-top-left-radius: 2%;
     
 
 }
 .SUV {background-color: hsl(184, 100%, 22%);
     color: white;
-
+    font-size: 15px;
 }
 .lux {background-color: hsl(179, 100%, 13%);
     color: white;
-
+    font-size: 15px;
+    border-bottom-right-radius:2%;
+    border-bottom-left-radius: 2%;
 }
 .sedan-btn{color: hsl(31, 77%, 52%);
 background-color: hsl(0, 0%, 95%);
 border: none;
-border-radius: 18px;}
+border-radius: 18px;
+font-size: 15px;}
 .SUV-btn{color: hsl(184, 100%, 22%);
     border: none;
     border-radius: 18px;
-    background-color: hsl(0, 0%, 95%)}
+    background-color: hsl(0, 0%, 95%);
+    font-size: 15px;
+}
 .lux-btn {color: hsl(179, 100%, 13%);
     border: none;
     border-radius: 18px;
-    background-color: hsl(0, 0%, 95%)}
+    background-color: hsl(0, 0%, 95%);
+    font-size: 15px;}
+section{}
