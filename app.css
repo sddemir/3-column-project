@@ -8,18 +8,25 @@ font-weight: 400;}
     border: none;
     border-top-right-radius:2%;
     border-top-left-radius: 2%;
+    max-width: 960px;
+  margin: auto;
+    
     
 
 }
 .SUV {background-color: hsl(184, 100%, 22%);
     color: white;
     font-size: 15px;
+    max-width: 960px;
+    margin: auto;
 }
 .lux {background-color: hsl(179, 100%, 13%);
     color: white;
     font-size: 15px;
     border-bottom-right-radius:2%;
     border-bottom-left-radius: 2%;
+    max-width: 960px;
+      margin: auto;
 }
 .sedan-btn{color: hsl(31, 77%, 52%);
 background-color: hsl(0, 0%, 95%);
@@ -37,4 +44,4 @@ font-size: 15px;}
     border-radius: 18px;
     background-color: hsl(0, 0%, 95%);
     font-size: 15px;}
-section{}
+
